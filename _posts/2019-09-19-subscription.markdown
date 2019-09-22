@@ -22,7 +22,7 @@ $450/月 x 12 = 5400
 
 1/4磅特選（市價150-200）or 5包耳掛
 
-![workflow.jpg](workflow.jpg)
+![workflow.jpg](/assets/img/workflow.jpg)
 
 # 執咖啡
 
