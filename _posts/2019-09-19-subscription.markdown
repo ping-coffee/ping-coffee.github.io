@@ -2,7 +2,7 @@
 layout: post
 title: 一年體驗方案
 description: 
-img: how-to-start.jpg # Add image post (optional)
+img: workflow.jpg # Add image post (optional)
 ---
 # 品咖啡
 
@@ -21,6 +21,8 @@ $450/月 x 12 = 5400
 1/4磅單品（市價560-​700）
 
 1/4磅特選（市價150-200）or 5包耳掛
+
+![workflow.jpg](workflow.jpg)
 
 # 執咖啡
 
